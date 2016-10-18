@@ -1,7 +1,8 @@
-#Java Project
+#Java Core App Project
 ##Base Point for Java Applications
 
-*Project for creating Java Applications which do common tasks.*
+*Project for creating Java Applications which do common tasks using 
+a public static void main method and ran as a Java Application.*
 
 **Java 7**
 
