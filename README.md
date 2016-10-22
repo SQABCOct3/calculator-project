@@ -1,17 +1,11 @@
-#Java Automation Project
-##Base Point for Java Automation Projects
+#Calculator Project
 
-*Project for creating automation tests using Selenium WebDriver and TestNG.*
+*Calculator Project which uses the Calculator class and tests out its methods with TestNG test cases.*
 
 **Java 7**
 
 * Maven
-* Log4j
 * TestNG
-* Selenium WebDriver
-* Apache POI
-* JDBC
-* MySQL
 
 Java Project for SQA Boot Camp October 3.
 
